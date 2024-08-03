@@ -1,0 +1,174 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "1za-yU-8DQ.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Label\"; ObjectID = \"1za-yU-8DQ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        }
+      }
+    },
+    "2wq-Of-He2.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Airport list\"; ObjectID = \"2wq-Of-He2\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Airport list"
+          }
+        }
+      }
+    },
+    "9y3-B2-6AU.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Name\"; ObjectID = \"9y3-B2-6AU\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Name"
+          }
+        }
+      }
+    },
+    "Bbu-S8-vYE.configuration.title" : {
+      "comment" : "Class = \"UIButton\"; configuration.title = \"SEARCH\"; ObjectID = \"Bbu-S8-vYE\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "SEARCH"
+          }
+        }
+      }
+    },
+    "Bbu-S8-vYE.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"Bbu-S8-vYE\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "dN0-pE-y0A.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"0\"; ObjectID = \"dN0-pE-y0A\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0"
+          }
+        }
+      }
+    },
+    "Hyx-eO-sb7.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Label\"; ObjectID = \"Hyx-eO-sb7\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        }
+      }
+    },
+    "nR3-4h-TKu.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"AIRPORT\"; ObjectID = \"nR3-4h-TKu\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "AIRPORT"
+          }
+        }
+      }
+    },
+    "pGD-aO-2DQ.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Location of airports\"; ObjectID = \"pGD-aO-2DQ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Location of airports"
+          }
+        }
+      }
+    },
+    "RIE-Uy-mAU.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Label\"; ObjectID = \"RIE-Uy-mAU\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        }
+      }
+    },
+    "TPq-e5-Y4V.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"RADIUS IN KM\"; ObjectID = \"TPq-e5-Y4V\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "RADIUS IN KM"
+          }
+        }
+      }
+    },
+    "UVN-iV-L1a.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Place\"; ObjectID = \"UVN-iV-L1a\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Place"
+          }
+        }
+      }
+    },
+    "VWG-gX-Cjs.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Label\"; ObjectID = \"VWG-gX-Cjs\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        }
+      }
+    },
+    "xVr-Qg-zvq.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"finder\"; ObjectID = \"xVr-Qg-zvq\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "finder"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

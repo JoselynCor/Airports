@@ -1,0 +1,6 @@
+framework module Pods_newSearchJoselyn {
+  umbrella header "Pods-newSearchJoselyn-umbrella.h"
+
+  export *
+  module * { export * }
+}
